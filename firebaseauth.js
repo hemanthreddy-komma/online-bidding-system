@@ -4,7 +4,7 @@
  import{getFirestore, setDoc, doc} from "https://www.gstatic.com/firebasejs/10.11.1/firebase-firestore.js"
  
  const firebaseConfig = {
-    apiKey: "AIzaSyBYjvRr56Gw9lBitsdC9p6axZWBsZcEUqE",
+    apiKey: "AIzaSyBYjvRr56Gw9lBitsdC9p6axZWBsZcEUqE125dhefhencj",
     authDomain: "authentication-app-f1a60.firebaseapp.com",
     databaseURL: "https://authentication-app-f1a60-default-rtdb.firebaseio.com",
     projectId: "authentication-app-f1a60",
